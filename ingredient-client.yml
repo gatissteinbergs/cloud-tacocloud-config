@@ -3,11 +3,11 @@ server:
 
 ---
 spring:
-  profiles: ingridient-client-1
+  profiles: ingredient-client-1
 server:
   port: 8777
 ---
 spring:
-  profiles: ingridient-client-2
+  profiles: ingredient-client-2
 server:
   port: 8778
